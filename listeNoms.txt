@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 bouchkara manahel
 toto
+=======
+bouchkara 
+
+
+toto
+>>>>>>> main
